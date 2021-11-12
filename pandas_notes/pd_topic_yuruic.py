@@ -17,7 +17,7 @@
 # *Yurui Chang*\
 # yuruic@umich.edu
 #
-# [link to the file](https://github.com/yuruic/Stats507/tree/main/pandas_notes)
+# [link to the file](https://github.com/yuruic/Stats507/blob/main/pandas_notes/pd_topic_yuruic.py)
 
 import pandas as pd
 import numpy as np
